@@ -1,1 +1,5 @@
+import {
+  "farside_riveter/human_duration",
+}
 
+pkgtype(kind: "executable")
