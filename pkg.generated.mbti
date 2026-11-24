@@ -1,10 +1,7 @@
 // Generated using `moon info`, DON'T EDIT IT
-package "farside_riveter/human_duration"
+package "farside_riveter/human_duration/cmd/main"
 
 // Values
-pub fn format(Int32) -> String
-
-pub fn parse(String) -> Int32?
 
 // Errors
 
